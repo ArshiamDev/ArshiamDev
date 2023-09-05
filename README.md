@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Arshia Mostafaei</h1>
 <h3 align="center">Software engineer - programmer and web developer</h3>
+<h3 align="center"> PROFILE I am Arshia Mostafaei, programmer and web developer, born in 2002/08/22 and I'm interested in software engineering. Proficient in .Net framework and skilled at assortment of technologies including Entity Framework Core, Windows Forms, Asp.Net Core and MVC architecture. Capable of doing independent projects as well as collaborating with a team. And I'm excited to learn new skills everyday. Skills C++ Java (SE) C# Asp.net Core (mvc) Windows Forms EF-Core T-SQL Microsoft SQL Server TypeScript Front-end : html , css , bootstrap , sass , less JavaScript (Vanilla) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
